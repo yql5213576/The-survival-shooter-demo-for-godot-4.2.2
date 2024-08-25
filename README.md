@@ -1,4 +1,9 @@
-这是我经过两个月学习做的，一个很普通的项目源码，在这里直接发布了，
+这是我经过两个月学习做的，一个很普通的项目源码,源码在4.2.2版本中开发出来，在这里直接发布了，如果git下载不到，这里有百度网盘地址:
+
+
+链接：https://pan.baidu.com/s/1FDgoeR40oXMR6bw57lWO_A 
+提取码：surv
+
 
 版权声明:美术资源都是我自己做的，音效来自:https://godotengine.org/asset-library/asset/2710               ；                    https://www.kenney.nl/
 ![屏幕截图 2024-08-25 030419](https://github.com/user-attachments/assets/835f0914-5bd0-4c39-a83f-5ac0ee443523)
@@ -11,3 +16,5 @@
 用到的工具:
 模型:blender,l3dt
 动画:mixamo
+
+
