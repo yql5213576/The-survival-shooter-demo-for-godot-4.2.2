@@ -4,3 +4,10 @@
 ![屏幕截图 2024-08-25 030419](https://github.com/user-attachments/assets/835f0914-5bd0-4c39-a83f-5ac0ee443523)
 ![屏幕截图 2024-08-25 030459](https://github.com/user-attachments/assets/c7f6af05-9bac-47f6-9bca-fc0a5ff5518d)
 ![屏幕截图 2024-08-25 030515](https://github.com/user-attachments/assets/d8217a05-1f94-4c0f-a510-4566fa12ef16)
+
+
+美术资源各位可以随便用
+
+用到的工具:
+模型:blender,l3dt
+动画:mixamo
